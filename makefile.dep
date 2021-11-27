@@ -1,0 +1,3 @@
+fast_treap.o: fast_treap.cc fast_treap.h
+microbench.o: microbench.cc microbench.h fast_treap.h
+microbenchPara.o: microbenchPara.cc microbench.h fast_treap.h
